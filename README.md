@@ -3,6 +3,7 @@
 1. Clone the repo and `npm install`
 2. Generate a personal access token for your GitHub account by going to Settings --> Developer Settings --> Personal Access Tokens. Make sure that the token you generate has full access to repos.
 3. Create your `.env` file and add the required variables
+4. Run the script with `npm start`
 
 # Env vars
 - `TOKEN`: your personal access token for your GH account
